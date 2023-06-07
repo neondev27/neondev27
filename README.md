@@ -1,7 +1,4 @@
-[EN]
-Hello guys, my name is Ahmet, i am developing something and started mod FNF. I am wondering how i can make programming easier than today's programming methods. Give me ideas please. Also don't forget follow my accounts, i will care about your ideas.
-😅. 
-Bye👋
-[TR]
-Merhaba beyler, adım Ahmet. Bir şeyler geliştiriyorum ve FNF modlamaya başladım. Programlamayı bugünün programlama metodlarından nasıl daha kolay yapacağımı merak ediyorum. Bana fikir verin lütfen. Ayrıca hesaplarımı takip etmeyi unutmayın, fikirlerinize değer vereceğim.
-Görüşürüz👋
+<h1 align="center">Hey There👋</h1>
+<div id="badges">
+  <a href=https://twitter.com/NeoDev27><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+</div>
