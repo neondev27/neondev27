@@ -12,7 +12,7 @@
 
 **My name is Ahmet Kaya**
 
-I am a **Full Stack Developer**, AI Researcher, and Machine Learning Enthusiast. I am also suporting projects for **Python, Machine Learning, and Web Development**.
+I am a learner for become **Full Stack Developer**, AI Researcher, and Machine Learning Enthusiast. I am also supporting projects for **Python, Machine Learning, and Web Development**.
 
  **I am mainly working on AI-Based Social Media Platform named "Communidia", and an operating system named "Coldflame OS" based on Arch Linux for bring concepts of [Kaamer Avdan](https://www.youtube.com/@Avdan).**
  
