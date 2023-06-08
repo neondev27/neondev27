@@ -15,12 +15,16 @@ I am a **Full Stack Developer**, AI Researcher, and Machine Learning Enthusiast.
  
  You are able to find me as "NeoDev27, neondev27, NeolitDeveloper" in my social media accounts.
  
-                                       My aim is make internet safe and easy to use for whole world.
-                                   Because as I experienced, I want to make people more creative and brave.
-    
+<div align="center">                                  
+<p>My aim is make internet safe and easy to use for whole world.<br>
+Because as I experienced, I want to make people more creative and brave.<
+</p>
+
     
 Thanks for listening at me. Here is my portfolio at Github:
 
-   ![neondev27's Stats](https://github-readme-stats.vercel.app/api?username=neondev27&theme=radical&show_icons=true&hide_border=false&count_private=true)              
+![neondev27's Stats](https://github-readme-stats.vercel.app/api?username=neondev27&theme=radical&show_icons=true&hide_border=false&count_private=true)              
 ![neondev27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=neondev27&theme=radical&hide_border=false)
+
 ![neondev27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neondev27&theme=radical&show_icons=true&hide_border=false&layout=compact)
+</div>
