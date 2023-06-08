@@ -1,5 +1,8 @@
 <h1 align="center">Hey There👋</h1>
 <div id="badges" align="center">
+
+  [Turkish](README_TR.md)
+  
   <a href=https://twitter.com/NeoDev27><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href=https://github.com/neondev27><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/></a>
   <a href=https://www.linkedin.com/in/ahmet-kaya-45b249256/><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a>
