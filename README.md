@@ -14,7 +14,7 @@
 
 I am a learner for become **Full Stack Developer**, AI Researcher, and Machine Learning Enthusiast. I am also supporting projects for **Python, Machine Learning, and Web Development**.
 
- **I am mainly working on AI-Based Social Media Platform named "Communidia", and an operating system named "Coldflame OS" based on Arch Linux for bring concepts of [Kaamer Avdan](https://www.youtube.com/@Avdan).**
+ **I am mainly working on AI-Based Social Media Platform named "Communidia", and an operating system named "Coldflame OS" based on Arch Linux for bring concepts of [Kaamer Avdan](https://www.youtube.com/@Avdan). (I am not owner of that project, I will leave a link to it.)**
  
  You are able to find me as "NeoDev27, neondev27, NeolitDeveloper" in my social media accounts.
  
