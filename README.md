@@ -20,7 +20,7 @@ I am a learner for become **Full Stack Developer**, AI Researcher, and Machine L
  
 <div align="center">                                  
 <p>My aim is make internet safe and easy to use for whole world.<br>
-Because as I experienced, I want to make people more creative and brave.<
+Because as I experienced, I want to make people more creative and brave.
 </p>
 
     
